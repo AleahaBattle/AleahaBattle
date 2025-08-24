@@ -4,9 +4,9 @@
 <h1 align="center">👋 Hello World, I'm Aleaha 👩🏾‍💻 </h1>
 <h3 align="center">Backend Developer | IoT Enthusiast | Passionate Problem Solver</h3>
 
-<p align="center"> 🌱 I’m currently learning AWS </p>
+<p align="center"> 🌱 I’m currently learning RUST </p>
 <p align="center"> 👯 I’m looking to collaborate on open source </p>
-<p align="center"> 🤔 I’m looking for help with Docker & AWS </p>
+<p align="center"> 🤔 I’m looking for help with RUST & DevOps </p>
 <p align="center"> 💬 Ask me about anything </p>
 <p align="center"> 👩🏾 Pronouns: She/Her </p>
 
