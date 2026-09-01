@@ -2,7 +2,7 @@
 <img align="center" alt="Hello" src="https://user-images.githubusercontent.com/53686128/85873615-01979700-b7ef-11ea-9b26-8cd5223acd74.gif"/>
 </p>
 <h1 align="center">👋 Hello World, I'm Aleaha 👩🏾‍💻 </h1>
-<h3 align="center">Backend Developer | IoT Enthusiast | Passionate Problem Solver</h3>
+<h3 align="center">Backend Developer | Python Enthusiast | Passionate Problem Solver</h3>
 
 <p align="center"> 🌱 I’m currently learning RUST </p>
 <p align="center"> 👯 I’m looking to collaborate on open source </p>
